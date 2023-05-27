@@ -18,6 +18,6 @@
     // the examples collection. Update this to make sure all
     // the examples work as they should on your system.
     $neededFiles = array(
-        'patErrorManager'   =>  'pat/patErrorManager.php',
-        'patTemplate'       =>  '../patTemplate.php'
+        'patErrorManager'   =>  '../pat-error/src/patErrorManager.php',
+        'patTemplate'       =>  '../src/patTemplate.php'
     );
